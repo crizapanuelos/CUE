@@ -1,0 +1,988 @@
+{
+  "shop": "CUE",
+  "method": "Built-in image generation tool",
+  "assetType": "AI-generated representative studio product photography",
+  "encoding": "JPEG quality 90, original resolution and composition",
+  "products": [
+    {
+      "id": "BH01001",
+      "name": "Brazilian slate bed",
+      "category": "Playing Surface",
+      "file": "assets/photos/BH01001.jpg",
+      "prompt": "Use case: product-mockup. One photorealistic ecommerce studio product photograph for CUE billiards shop. Subject: Brazilian slate bed. Product family: Playing Surface. Show the actual named equipment only, with physically correct construction, accurate materials and functional details. Clean seamless near-white warm neutral studio background, soft natural contact shadow, fully visible centered product with 12% safe margins, square composition, sharp high-end catalog photography, realistic texture and restrained reflections. Frame long products diagonally to fit. Kits and sets show the appropriate parts together. This is generic representative equipment; no manufacturer logos, no text, no labels, no watermark, no collage, no drawing, no vector, no cartoon, no stylized render."
+    },
+    {
+      "id": "BH01002",
+      "name": "Italian slate panel",
+      "category": "Playing Surface",
+      "file": "assets/photos/BH01002.jpg",
+      "prompt": "Use case: product-mockup. One photorealistic ecommerce studio product photograph for CUE billiards shop. Subject: Italian slate panel. Product family: Playing Surface. Show the actual named equipment only, with physically correct construction, accurate materials and functional details. Clean seamless near-white warm neutral studio background, soft natural contact shadow, fully visible centered product with 12% safe margins, square composition, sharp high-end catalog photography, realistic texture and restrained reflections. Frame long products diagonally to fit. Kits and sets show the appropriate parts together. This is generic representative equipment; no manufacturer logos, no text, no labels, no watermark, no collage, no drawing, no vector, no cartoon, no stylized render."
+    },
+    {
+      "id": "BH01003",
+      "name": "Three-piece slate set",
+      "category": "Playing Surface",
+      "file": "assets/photos/BH01003.jpg",
+      "prompt": "Use case: product-mockup. One photorealistic ecommerce studio product photograph for CUE billiards shop. Subject: Three-piece slate set. Product family: Playing Surface. Show the actual named equipment only, with physically correct construction, accurate materials and functional details. Clean seamless near-white warm neutral studio background, soft natural contact shadow, fully visible centered product with 12% safe margins, square composition, sharp high-end catalog photography, realistic texture and restrained reflections. Frame long products diagonally to fit. Kits and sets show the appropriate parts together. This is generic representative equipment; no manufacturer logos, no text, no labels, no watermark, no collage, no drawing, no vector, no cartoon, no stylized render."
+    },
+    {
+      "id": "BH01004",
+      "name": "Precision honed slate",
+      "category": "Playing Surface",
+      "file": "assets/photos/BH01004.jpg",
+      "prompt": "Use case: product-mockup. One photorealistic ecommerce studio product photograph for CUE billiards shop. Subject: Precision honed slate. Product family: Playing Surface. Show the actual named equipment only, with physically correct construction, accurate materials and functional details. Clean seamless near-white warm neutral studio background, soft natural contact shadow, fully visible centered product with 12% safe margins, square composition, sharp high-end catalog photography, realistic texture and restrained reflections. Frame long products diagonally to fit. Kits and sets show the appropriate parts together. This is generic representative equipment; no manufacturer logos, no text, no labels, no watermark, no collage, no drawing, no vector, no cartoon, no stylized render."
+    },
+    {
+      "id": "BH01005",
+      "name": "Tournament bed slate",
+      "category": "Playing Surface",
+      "file": "assets/photos/BH01005.jpg",
+      "prompt": "Use case: product-mockup. One photorealistic ecommerce studio product photograph for CUE billiards shop. Subject: Tournament bed slate. Product family: Playing Surface. Show the actual named equipment only, with physically correct construction, accurate materials and functional details. Clean seamless near-white warm neutral studio background, soft natural contact shadow, fully visible centered product with 12% safe margins, square composition, sharp high-end catalog photography, realistic texture and restrained reflections. Frame long products diagonally to fit. Kits and sets show the appropriate parts together. This is generic representative equipment; no manufacturer logos, no text, no labels, no watermark, no collage, no drawing, no vector, no cartoon, no stylized render."
+    },
+    {
+      "id": "BH01006",
+      "name": "Composite practice bed",
+      "category": "Playing Surface",
+      "file": "assets/photos/BH01006.jpg",
+      "prompt": "Use case: product-mockup. One photorealistic ecommerce studio product photograph for CUE billiards shop. Subject: Composite practice bed. Product family: Playing Surface. Show the actual named equipment only, with physically correct construction, accurate materials and functional details. Clean seamless near-white warm neutral studio background, soft natural contact shadow, fully visible centered product with 12% safe margins, square composition, sharp high-end catalog photography, realistic texture and restrained reflections. Frame long products diagonally to fit. Kits and sets show the appropriate parts together. This is generic representative equipment; no manufacturer logos, no text, no labels, no watermark, no collage, no drawing, no vector, no cartoon, no stylized render."
+    },
+    {
+      "id": "BH01007",
+      "name": "One-piece slate bed",
+      "category": "Playing Surface",
+      "file": "assets/photos/BH01007.jpg",
+      "prompt": "Use case: product-mockup. One photorealistic ecommerce studio product photograph for CUE billiards shop. Subject: One-piece slate bed. Product family: Playing Surface. Show the actual named equipment only, with physically correct construction, accurate materials and functional details. Clean seamless near-white warm neutral studio background, soft natural contact shadow, fully visible centered product with 12% safe margins, square composition, sharp high-end catalog photography, realistic texture and restrained reflections. Frame long products diagonally to fit. Kits and sets show the appropriate parts together. This is generic representative equipment; no manufacturer logos, no text, no labels, no watermark, no collage, no drawing, no vector, no cartoon, no stylized render."
+    },
+    {
+      "id": "BH01008",
+      "name": "Slate leveling kit",
+      "category": "Playing Surface",
+      "file": "assets/photos/BH01008.jpg",
+      "prompt": "Use case: product-mockup. One photorealistic ecommerce studio product photograph for CUE billiards shop. Subject: Slate leveling kit. Product family: Playing Surface. Show the actual named equipment only, with physically correct construction, accurate materials and functional details. Clean seamless near-white warm neutral studio background, soft natural contact shadow, fully visible centered product with 12% safe margins, square composition, sharp high-end catalog photography, realistic texture and restrained reflections. Frame long products diagonally to fit. Kits and sets show the appropriate parts together. This is generic representative equipment; no manufacturer logos, no text, no labels, no watermark, no collage, no drawing, no vector, no cartoon, no stylized render."
+    },
+    {
+      "id": "BH01009",
+      "name": "Bed seam filler kit",
+      "category": "Playing Surface",
+      "file": "assets/photos/BH01009.jpg",
+      "prompt": "Use case: product-mockup. One photorealistic ecommerce studio product photograph for CUE billiards shop. Subject: Bed seam filler kit. Product family: Playing Surface. Show the actual named equipment only, with physically correct construction, accurate materials and functional details. Clean seamless near-white warm neutral studio background, soft natural contact shadow, fully visible centered product with 12% safe margins, square composition, sharp high-end catalog photography, realistic texture and restrained reflections. Frame long products diagonally to fit. Kits and sets show the appropriate parts together. This is generic representative equipment; no manufacturer logos, no text, no labels, no watermark, no collage, no drawing, no vector, no cartoon, no stylized render."
+    },
+    {
+      "id": "BH01010",
+      "name": "Slate mounting kit",
+      "category": "Playing Surface",
+      "file": "assets/photos/BH01010.jpg",
+      "prompt": "Use case: product-mockup. One photorealistic ecommerce studio product photograph for CUE billiards shop. Subject: Slate mounting kit. Product family: Playing Surface. Show the actual named equipment only, with physically correct construction, accurate materials and functional details. Clean seamless near-white warm neutral studio background, soft natural contact shadow, fully visible centered product with 12% safe margins, square composition, sharp high-end catalog photography, realistic texture and restrained reflections. Frame long products diagonally to fit. Kits and sets show the appropriate parts together. This is generic representative equipment; no manufacturer logos, no text, no labels, no watermark, no collage, no drawing, no vector, no cartoon, no stylized render."
+    },
+    {
+      "id": "BH02001",
+      "name": "860 Tournament Green",
+      "category": "Table Cloth",
+      "file": "assets/photos/BH02001.jpg",
+      "prompt": "Use case: product-mockup. One photorealistic ecommerce studio product photograph for CUE billiards shop. Subject: 860 Tournament Green. Product family: Table Cloth. Show the actual named equipment only, with physically correct construction, accurate materials and functional details. Clean seamless near-white warm neutral studio background, soft natural contact shadow, fully visible centered product with 12% safe margins, square composition, sharp high-end catalog photography, realistic texture and restrained reflections. Frame long products diagonally to fit. Kits and sets show the appropriate parts together. This is generic representative equipment; no manufacturer logos, no text, no labels, no watermark, no collage, no drawing, no vector, no cartoon, no stylized render."
+    },
+    {
+      "id": "BH02002",
+      "name": "760 Speed Blue",
+      "category": "Table Cloth",
+      "file": "assets/photos/BH02002.jpg",
+      "prompt": "Use case: product-mockup. One photorealistic ecommerce studio product photograph for CUE billiards shop. Subject: 760 Speed Blue. Product family: Table Cloth. Show the actual named equipment only, with physically correct construction, accurate materials and functional details. Clean seamless near-white warm neutral studio background, soft natural contact shadow, fully visible centered product with 12% safe margins, square composition, sharp high-end catalog photography, realistic texture and restrained reflections. Frame long products diagonally to fit. Kits and sets show the appropriate parts together. This is generic representative equipment; no manufacturer logos, no text, no labels, no watermark, no collage, no drawing, no vector, no cartoon, no stylized render."
+    },
+    {
+      "id": "BH02003",
+      "name": "860HR Royal Blue",
+      "category": "Table Cloth",
+      "file": "assets/photos/BH02003.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: 860HR Royal Blue. Category: Table Cloth. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH02004",
+      "name": "860 Burgundy",
+      "category": "Table Cloth",
+      "file": "assets/photos/BH02004.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: 860 Burgundy. Category: Table Cloth. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH02005",
+      "name": "760 Electric Blue",
+      "category": "Table Cloth",
+      "file": "assets/photos/BH02005.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: 760 Electric Blue. Category: Table Cloth. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH02006",
+      "name": "860 Spruce",
+      "category": "Table Cloth",
+      "file": "assets/photos/BH02006.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: 860 Spruce. Category: Table Cloth. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH02007",
+      "name": "860 Camel",
+      "category": "Table Cloth",
+      "file": "assets/photos/BH02007.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: 860 Camel. Category: Table Cloth. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH02008",
+      "name": "Rail cloth set",
+      "category": "Table Cloth",
+      "file": "assets/photos/BH02008.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: Rail cloth set. Category: Table Cloth. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH02009",
+      "name": "Practice cloth Green",
+      "category": "Table Cloth",
+      "file": "assets/photos/BH02009.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: Practice cloth Green. Category: Table Cloth. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH02010",
+      "name": "Tournament cloth Black",
+      "category": "Table Cloth",
+      "file": "assets/photos/BH02010.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: Tournament cloth Black. Category: Table Cloth. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH03001",
+      "name": "Oak apron panel",
+      "category": "Frame and Cabinet",
+      "file": "assets/photos/BH03001.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: Oak apron panel. Category: Frame and Cabinet. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH03002",
+      "name": "Maple cabinet panel",
+      "category": "Frame and Cabinet",
+      "file": "assets/photos/BH03002.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: Maple cabinet panel. Category: Frame and Cabinet. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH03003",
+      "name": "Walnut corner assembly",
+      "category": "Frame and Cabinet",
+      "file": "assets/photos/BH03003.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: Walnut corner assembly. Category: Frame and Cabinet. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH03004",
+      "name": "Steel crossbeam",
+      "category": "Frame and Cabinet",
+      "file": "assets/photos/BH03004.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: Steel crossbeam. Category: Frame and Cabinet. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH03005",
+      "name": "Adjustable table leg",
+      "category": "Frame and Cabinet",
+      "file": "assets/photos/BH03005.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: Adjustable table leg. Category: Frame and Cabinet. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH03006",
+      "name": "Leg leveler set",
+      "category": "Frame and Cabinet",
+      "file": "assets/photos/BH03006.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: Leg leveler set. Category: Frame and Cabinet. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH03007",
+      "name": "Cabinet bolt kit",
+      "category": "Frame and Cabinet",
+      "file": "assets/photos/BH03007.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: Cabinet bolt kit. Category: Frame and Cabinet. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH03008",
+      "name": "Rail mounting plate",
+      "category": "Frame and Cabinet",
+      "file": "assets/photos/BH03008.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: Rail mounting plate. Category: Frame and Cabinet. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH03009",
+      "name": "Ball return cabinet",
+      "category": "Frame and Cabinet",
+      "file": "assets/photos/BH03009.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: Ball return cabinet. Category: Frame and Cabinet. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH03010",
+      "name": "Mahogany frame kit",
+      "category": "Frame and Cabinet",
+      "file": "assets/photos/BH03010.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: Mahogany frame kit. Category: Frame and Cabinet. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH04001",
+      "name": "K55 Superspeed cushions",
+      "category": "Cushions / Bumpers",
+      "file": "assets/photos/BH04001.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: K55 Superspeed cushions. Category: Cushions / Bumpers. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH04002",
+      "name": "K66 rubber rail set",
+      "category": "Cushions / Bumpers",
+      "file": "assets/photos/BH04002.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: K66 rubber rail set. Category: Cushions / Bumpers. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH04003",
+      "name": "U23 cushion set",
+      "category": "Cushions / Bumpers",
+      "file": "assets/photos/BH04003.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: U23 cushion set. Category: Cushions / Bumpers. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH04004",
+      "name": "Snooker rail rubber",
+      "category": "Cushions / Bumpers",
+      "file": "assets/photos/BH04004.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: Snooker rail rubber. Category: Cushions / Bumpers. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH04005",
+      "name": "Carom cushion set",
+      "category": "Cushions / Bumpers",
+      "file": "assets/photos/BH04005.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: Carom cushion set. Category: Cushions / Bumpers. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH04006",
+      "name": "Pocket facing pack",
+      "category": "Cushions / Bumpers",
+      "file": "assets/photos/BH04006.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: Pocket facing pack. Category: Cushions / Bumpers. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH04007",
+      "name": "Rail adhesive kit",
+      "category": "Cushions / Bumpers",
+      "file": "assets/photos/BH04007.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: Rail adhesive kit. Category: Cushions / Bumpers. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH04008",
+      "name": "Cushion end blocks",
+      "category": "Cushions / Bumpers",
+      "file": "assets/photos/BH04008.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: Cushion end blocks. Category: Cushions / Bumpers. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH04009",
+      "name": "Tournament bumpers",
+      "category": "Cushions / Bumpers",
+      "file": "assets/photos/BH04009.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: Tournament bumpers. Category: Cushions / Bumpers. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH04010",
+      "name": "Practice rail set",
+      "category": "Cushions / Bumpers",
+      "file": "assets/photos/BH04010.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: Practice rail set. Category: Cushions / Bumpers. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH05001",
+      "name": "WX Sigma maple shaft",
+      "category": "Shaft and Butt",
+      "file": "assets/photos/BH05001.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: WX Sigma maple shaft. Category: Shaft and Butt. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH05002",
+      "name": "Ignite carbon shaft",
+      "category": "Shaft and Butt",
+      "file": "assets/photos/BH05002.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: Ignite carbon shaft. Category: Shaft and Butt. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH05003",
+      "name": "EX Pro shaft",
+      "category": "Shaft and Butt",
+      "file": "assets/photos/BH05003.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: EX Pro shaft. Category: Shaft and Butt. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH05004",
+      "name": "Hybrid Pro shaft",
+      "category": "Shaft and Butt",
+      "file": "assets/photos/BH05004.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: Hybrid Pro shaft. Category: Shaft and Butt. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH05005",
+      "name": "Maple wrapped butt",
+      "category": "Shaft and Butt",
+      "file": "assets/photos/BH05005.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: Maple wrapped butt. Category: Shaft and Butt. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH05006",
+      "name": "Ebony cue butt",
+      "category": "Shaft and Butt",
+      "file": "assets/photos/BH05006.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: Ebony cue butt. Category: Shaft and Butt. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH05007",
+      "name": "Ash practice shaft",
+      "category": "Shaft and Butt",
+      "file": "assets/photos/BH05007.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: Ash practice shaft. Category: Shaft and Butt. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH05008",
+      "name": "Carbon break shaft",
+      "category": "Shaft and Butt",
+      "file": "assets/photos/BH05008.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: Carbon break shaft. Category: Shaft and Butt. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH05009",
+      "name": "Rosewood cue butt",
+      "category": "Shaft and Butt",
+      "file": "assets/photos/BH05009.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: Rosewood cue butt. Category: Shaft and Butt. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH05010",
+      "name": "Low deflection shaft",
+      "category": "Shaft and Butt",
+      "file": "assets/photos/BH05010.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: Low deflection shaft. Category: Shaft and Butt. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH06001",
+      "name": "Black soft tip",
+      "category": "Cue Tip",
+      "file": "assets/photos/BH06001.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: Black soft tip. Category: Cue Tip. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH06002",
+      "name": "Black medium tip",
+      "category": "Cue Tip",
+      "file": "assets/photos/BH06002.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: Black medium tip. Category: Cue Tip. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH06003",
+      "name": "Black hard tip",
+      "category": "Cue Tip",
+      "file": "assets/photos/BH06003.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: Black hard tip. Category: Cue Tip. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH06004",
+      "name": "Clear soft tip",
+      "category": "Cue Tip",
+      "file": "assets/photos/BH06004.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: Clear soft tip. Category: Cue Tip. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH06005",
+      "name": "Clear medium tip",
+      "category": "Cue Tip",
+      "file": "assets/photos/BH06005.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: Clear medium tip. Category: Cue Tip. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH06006",
+      "name": "Clear hard tip",
+      "category": "Cue Tip",
+      "file": "assets/photos/BH06006.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: Clear hard tip. Category: Cue Tip. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH06007",
+      "name": "Athlete medium tip",
+      "category": "Cue Tip",
+      "file": "assets/photos/BH06007.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: Athlete medium tip. Category: Cue Tip. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH06008",
+      "name": "Jump break tip",
+      "category": "Cue Tip",
+      "file": "assets/photos/BH06008.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: Jump break tip. Category: Cue Tip. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH06009",
+      "name": "Layered practice tip",
+      "category": "Cue Tip",
+      "file": "assets/photos/BH06009.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: Layered practice tip. Category: Cue Tip. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH06010",
+      "name": "Snooker soft tip",
+      "category": "Cue Tip",
+      "file": "assets/photos/BH06010.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: Snooker soft tip. Category: Cue Tip. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH07001",
+      "name": "Juma ferrule",
+      "category": "Ferrules and Joints",
+      "file": "assets/photos/BH07001.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: Juma ferrule. Category: Ferrules and Joints. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH07002",
+      "name": "Linen ferrule",
+      "category": "Ferrules and Joints",
+      "file": "assets/photos/BH07002.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: Linen ferrule. Category: Ferrules and Joints. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH07003",
+      "name": "Carbon ferrule",
+      "category": "Ferrules and Joints",
+      "file": "assets/photos/BH07003.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: Carbon ferrule. Category: Ferrules and Joints. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH07004",
+      "name": "United joint collar",
+      "category": "Ferrules and Joints",
+      "file": "assets/photos/BH07004.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: United joint collar. Category: Ferrules and Joints. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH07005",
+      "name": "Wavy joint pin",
+      "category": "Ferrules and Joints",
+      "file": "assets/photos/BH07005.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: Wavy joint pin. Category: Ferrules and Joints. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH07006",
+      "name": "Stainless joint pin",
+      "category": "Ferrules and Joints",
+      "file": "assets/photos/BH07006.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: Stainless joint pin. Category: Ferrules and Joints. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH07007",
+      "name": "Brass insert set",
+      "category": "Ferrules and Joints",
+      "file": "assets/photos/BH07007.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: Brass insert set. Category: Ferrules and Joints. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH07008",
+      "name": "Joint protector pair",
+      "category": "Ferrules and Joints",
+      "file": "assets/photos/BH07008.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: Joint protector pair. Category: Ferrules and Joints. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH07009",
+      "name": "Phenolic ferrule",
+      "category": "Ferrules and Joints",
+      "file": "assets/photos/BH07009.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: Phenolic ferrule. Category: Ferrules and Joints. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH07010",
+      "name": "Shaft insert kit",
+      "category": "Ferrules and Joints",
+      "file": "assets/photos/BH07010.jpg",
+      "prompt": "Use case: product-mockup. A photorealistic square ecommerce studio photograph of a small billiards cue repair kit: four short golden brass threaded cylindrical joint inserts, two ivory-white small nylon ferrule sleeves and one tiny black rubber joint washer, neatly arranged flat on a seamless warm white tabletop. These are ordinary miniature hardware components used to connect the wooden sections of a pool playing cue. Blunt cylindrical parts only. Show internal screw threads and realistic machined brass texture with soft studio lighting and natural contact shadows. Clean premium retail catalog photography with generous whitespace and the entire kit visible. No tools, no people, no logos, no words, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH08001",
+      "name": "Tournament TV Pro set",
+      "category": "Billiard Balls",
+      "file": "assets/photos/BH08001.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: Tournament TV Pro set. Category: Billiard Balls. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH08002",
+      "name": "Super Pro set",
+      "category": "Billiard Balls",
+      "file": "assets/photos/BH08002.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: Super Pro set. Category: Billiard Balls. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH08003",
+      "name": "Premium pool set",
+      "category": "Billiard Balls",
+      "file": "assets/photos/BH08003.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: Premium pool set. Category: Billiard Balls. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH08004",
+      "name": "Premier pool set",
+      "category": "Billiard Balls",
+      "file": "assets/photos/BH08004.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: Premier pool set. Category: Billiard Balls. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH08005",
+      "name": "Black tournament set",
+      "category": "Billiard Balls",
+      "file": "assets/photos/BH08005.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: Black tournament set. Category: Billiard Balls. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH08006",
+      "name": "Pro Cup cue ball",
+      "category": "Billiard Balls",
+      "file": "assets/photos/BH08006.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: Pro Cup cue ball. Category: Billiard Balls. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH08007",
+      "name": "Practice cue ball",
+      "category": "Billiard Balls",
+      "file": "assets/photos/BH08007.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: Practice cue ball. Category: Billiard Balls. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH08008",
+      "name": "Snooker ball set",
+      "category": "Billiard Balls",
+      "file": "assets/photos/BH08008.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: Snooker ball set. Category: Billiard Balls. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH08009",
+      "name": "Carom ball set",
+      "category": "Billiard Balls",
+      "file": "assets/photos/BH08009.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: Carom ball set. Category: Billiard Balls. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH08010",
+      "name": "Nine-ball replacement",
+      "category": "Billiard Balls",
+      "file": "assets/photos/BH08010.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: Nine-ball replacement. Category: Billiard Balls. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH09001",
+      "name": "Roku blue chalk",
+      "category": "Chalk",
+      "file": "assets/photos/BH09001.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: Roku blue chalk. Category: Chalk. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH09002",
+      "name": "Roku green chalk",
+      "category": "Chalk",
+      "file": "assets/photos/BH09002.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: Roku green chalk. Category: Chalk. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH09003",
+      "name": "0.98 beta chalk",
+      "category": "Chalk",
+      "file": "assets/photos/BH09003.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: 0.98 beta chalk. Category: Chalk. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH09004",
+      "name": "1.21 beta chalk",
+      "category": "Chalk",
+      "file": "assets/photos/BH09004.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: 1.21 beta chalk. Category: Chalk. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH09005",
+      "name": "Sky blue cube",
+      "category": "Chalk",
+      "file": "assets/photos/BH09005.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: Sky blue cube. Category: Chalk. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH09006",
+      "name": "Forest green cube",
+      "category": "Chalk",
+      "file": "assets/photos/BH09006.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: Forest green cube. Category: Chalk. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH09007",
+      "name": "Tournament three pack",
+      "category": "Chalk",
+      "file": "assets/photos/BH09007.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: Tournament three pack. Category: Chalk. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH09008",
+      "name": "Practice chalk box",
+      "category": "Chalk",
+      "file": "assets/photos/BH09008.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: Practice chalk box. Category: Chalk. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH09009",
+      "name": "Magnetic chalk holder",
+      "category": "Chalk",
+      "file": "assets/photos/BH09009.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: Magnetic chalk holder. Category: Chalk. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH09010",
+      "name": "Leather chalk pouch",
+      "category": "Chalk",
+      "file": "assets/photos/BH09010.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: Leather chalk pouch. Category: Chalk. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH10001",
+      "name": "Spider bridge head",
+      "category": "Bridges and Racks",
+      "file": "assets/photos/BH10001.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: Spider bridge head. Category: Bridges and Racks. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH10002",
+      "name": "Cross bridge head",
+      "category": "Bridges and Racks",
+      "file": "assets/photos/BH10002.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: Cross bridge head. Category: Bridges and Racks. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH10003",
+      "name": "Moose bridge head",
+      "category": "Bridges and Racks",
+      "file": "assets/photos/BH10003.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: Moose bridge head. Category: Bridges and Racks. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH10004",
+      "name": "Telescopic bridge",
+      "category": "Bridges and Racks",
+      "file": "assets/photos/BH10004.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: Telescopic bridge. Category: Bridges and Racks. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH10005",
+      "name": "Maple bridge stick",
+      "category": "Bridges and Racks",
+      "file": "assets/photos/BH10005.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: Maple bridge stick. Category: Bridges and Racks. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH10006",
+      "name": "Mechanical rest",
+      "category": "Bridges and Racks",
+      "file": "assets/photos/BH10006.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: Mechanical rest. Category: Bridges and Racks. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH10007",
+      "name": "Nine ball template",
+      "category": "Bridges and Racks",
+      "file": "assets/photos/BH10007.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: Nine ball template. Category: Bridges and Racks. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH10008",
+      "name": "Ten ball template",
+      "category": "Bridges and Racks",
+      "file": "assets/photos/BH10008.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: Ten ball template. Category: Bridges and Racks. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH10009",
+      "name": "Ball positioning sheet",
+      "category": "Bridges and Racks",
+      "file": "assets/photos/BH10009.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: Ball positioning sheet. Category: Bridges and Racks. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH10010",
+      "name": "Training bridge set",
+      "category": "Bridges and Racks",
+      "file": "assets/photos/BH10010.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: Training bridge set. Category: Bridges and Racks. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH11001",
+      "name": "Sport 2 playing cue",
+      "category": "Pool Cues",
+      "file": "assets/photos/BH11001.jpg",
+      "prompt": "Use case: product-mockup. Create one photorealistic ecommerce product photograph for CUE billiards shop: a premium two-piece pool playing cue, warm maple shaft and deep black butt with elegant understated gold inlays, photographed diagonally fully inside frame with generous white margins on seamless very light warm grey studio background. Accurate physical proportions, wood grain, glossy lacquer, rubber bumper, metal joint and blue leather tip, natural soft contact shadow, professional 85 mm product photography, clean high-end retail catalog. Square image. This is representative generic equipment, do not reproduce manufacturer logos or print any text, labels, watermark or borders. NO drawing, illustration, cartoon, vector or obvious CGI."
+    },
+    {
+      "id": "BH11002",
+      "name": "Aspire maple cue",
+      "category": "Pool Cues",
+      "file": "assets/photos/BH11002.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: Aspire maple cue. Category: Pool Cues. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH11003",
+      "name": "REVO playing cue",
+      "category": "Pool Cues",
+      "file": "assets/photos/BH11003.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: REVO playing cue. Category: Pool Cues. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH11004",
+      "name": "P3 racing cue",
+      "category": "Pool Cues",
+      "file": "assets/photos/BH11004.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: P3 racing cue. Category: Pool Cues. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH11005",
+      "name": "BK Rush break cue",
+      "category": "Pool Cues",
+      "file": "assets/photos/BH11005.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: BK Rush break cue. Category: Pool Cues. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH11006",
+      "name": "Air Rush jump cue",
+      "category": "Pool Cues",
+      "file": "assets/photos/BH11006.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: Air Rush jump cue. Category: Pool Cues. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH11007",
+      "name": "SP2 sneaky pete",
+      "category": "Pool Cues",
+      "file": "assets/photos/BH11007.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: SP2 sneaky pete. Category: Pool Cues. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH11008",
+      "name": "Roadline playing cue",
+      "category": "Pool Cues",
+      "file": "assets/photos/BH11008.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: Roadline playing cue. Category: Pool Cues. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH11009",
+      "name": "Ikon inlay cue",
+      "category": "Pool Cues",
+      "file": "assets/photos/BH11009.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: Ikon inlay cue. Category: Pool Cues. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH11010",
+      "name": "Junior playing cue",
+      "category": "Pool Cues",
+      "file": "assets/photos/BH11010.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: Junior playing cue. Category: Pool Cues. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH12001",
+      "name": "Axis left hand black",
+      "category": "Gloves",
+      "file": "assets/photos/BH12001.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: Axis left hand black. Category: Gloves. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH12002",
+      "name": "Axis left hand grey",
+      "category": "Gloves",
+      "file": "assets/photos/BH12002.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: Axis left hand grey. Category: Gloves. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH12003",
+      "name": "Axis right hand black",
+      "category": "Gloves",
+      "file": "assets/photos/BH12003.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: Axis right hand black. Category: Gloves. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH12004",
+      "name": "Pro mesh navy",
+      "category": "Gloves",
+      "file": "assets/photos/BH12004.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: Pro mesh navy. Category: Gloves. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH12005",
+      "name": "Pro mesh green",
+      "category": "Gloves",
+      "file": "assets/photos/BH12005.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: Pro mesh green. Category: Gloves. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH12006",
+      "name": "Tournament glove S",
+      "category": "Gloves",
+      "file": "assets/photos/BH12006.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: Tournament glove S. Category: Gloves. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH12007",
+      "name": "Tournament glove M",
+      "category": "Gloves",
+      "file": "assets/photos/BH12007.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: Tournament glove M. Category: Gloves. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH12008",
+      "name": "Tournament glove L",
+      "category": "Gloves",
+      "file": "assets/photos/BH12008.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: Tournament glove L. Category: Gloves. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH12009",
+      "name": "Junior glove",
+      "category": "Gloves",
+      "file": "assets/photos/BH12009.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: Junior glove. Category: Gloves. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH12010",
+      "name": "Ambidextrous glove",
+      "category": "Gloves",
+      "file": "assets/photos/BH12010.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: Ambidextrous glove. Category: Gloves. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH13001",
+      "name": "Proline 2x4 hard case",
+      "category": "Cases",
+      "file": "assets/photos/BH13001.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: Proline 2x4 hard case. Category: Cases. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH13002",
+      "name": "Proline 4x8 case",
+      "category": "Cases",
+      "file": "assets/photos/BH13002.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: Proline 4x8 case. Category: Cases. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH13003",
+      "name": "Metro 2x3 case",
+      "category": "Cases",
+      "file": "assets/photos/BH13003.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: Metro 2x3 case. Category: Cases. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH13004",
+      "name": "Leather 1x2 case",
+      "category": "Cases",
+      "file": "assets/photos/BH13004.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: Leather 1x2 case. Category: Cases. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH13005",
+      "name": "Canvas 2x4 soft case",
+      "category": "Cases",
+      "file": "assets/photos/BH13005.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: Canvas 2x4 soft case. Category: Cases. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH13006",
+      "name": "Carbon travel case",
+      "category": "Cases",
+      "file": "assets/photos/BH13006.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: Carbon travel case. Category: Cases. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH13007",
+      "name": "Junior 1x1 sleeve",
+      "category": "Cases",
+      "file": "assets/photos/BH13007.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: Junior 1x1 sleeve. Category: Cases. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH13008",
+      "name": "Tournament 3x6 case",
+      "category": "Cases",
+      "file": "assets/photos/BH13008.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: Tournament 3x6 case. Category: Cases. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH13009",
+      "name": "Waterproof 2x4 case",
+      "category": "Cases",
+      "file": "assets/photos/BH13009.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: Waterproof 2x4 case. Category: Cases. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH13010",
+      "name": "Travel roller case",
+      "category": "Cases",
+      "file": "assets/photos/BH13010.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: Travel roller case. Category: Cases. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH14001",
+      "name": "Oak triangle rack",
+      "category": "Racks",
+      "file": "assets/photos/BH14001.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: Oak triangle rack. Category: Racks. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH14002",
+      "name": "Walnut triangle rack",
+      "category": "Racks",
+      "file": "assets/photos/BH14002.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: Walnut triangle rack. Category: Racks. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH14003",
+      "name": "Aluminum triangle rack",
+      "category": "Racks",
+      "file": "assets/photos/BH14003.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: Aluminum triangle rack. Category: Racks. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH14004",
+      "name": "Diamond nine ball rack",
+      "category": "Racks",
+      "file": "assets/photos/BH14004.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: Diamond nine ball rack. Category: Racks. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH14005",
+      "name": "Wall cue rack six",
+      "category": "Racks",
+      "file": "assets/photos/BH14005.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: Wall cue rack six. Category: Racks. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH14006",
+      "name": "Floor cue stand eight",
+      "category": "Racks",
+      "file": "assets/photos/BH14006.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: Floor cue stand eight. Category: Racks. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH14007",
+      "name": "Corner cue stand",
+      "category": "Racks",
+      "file": "assets/photos/BH14007.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: Corner cue stand. Category: Racks. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH14008",
+      "name": "Ball storage tray",
+      "category": "Racks",
+      "file": "assets/photos/BH14008.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: Ball storage tray. Category: Racks. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH14009",
+      "name": "Commercial cue rack",
+      "category": "Racks",
+      "file": "assets/photos/BH14009.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: Commercial cue rack. Category: Racks. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    },
+    {
+      "id": "BH14010",
+      "name": "Maple triangle rack",
+      "category": "Racks",
+      "file": "assets/photos/BH14010.jpg",
+      "prompt": "Use case: product-mockup. Photorealistic ecommerce studio photograph for CUE billiards shop. Subject: Maple triangle rack. Category: Racks. Show only the actual named equipment, physically correct construction, accurate realistic materials and details. Seamless near-white neutral background, soft natural contact shadow, fully visible centered product with 12% margins, square high-end catalog photography. Long products diagonally to fit. Kits and sets show appropriate parts together. Generic representative equipment, no manufacturer logos, no text, no watermark, no collage, no drawing, no illustration, no cartoon, no CGI."
+    }
+  ]
+}
